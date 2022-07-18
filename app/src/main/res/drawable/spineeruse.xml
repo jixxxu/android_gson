@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<resources>
+    <string-array android:name="androidcj">
+        <item>카카오뱅크</item>
+        <item>농협</item>
+        <item>아이템2</item>
+        <item>아이템3</item>
+        <item>아이템4</item>
+    </string-array>
+</resources>
+</layer-list>

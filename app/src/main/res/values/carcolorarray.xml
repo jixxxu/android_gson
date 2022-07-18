@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="차량색">
+        <item></item>
+        <item>흰색,파란색</item>
+        <item>노랑색</item>
+
+    </string-array>
+</resources>

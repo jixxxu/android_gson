@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#FFFFFF">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TextView
+            android:id="@+id/register1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/header"
+            android:text="바코드 스캔"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@android:color/black"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:layout_marginTop="668dp"
+            android:background="@drawable/header"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/img"
+            android:layout_marginTop="680dp"
+            android:layout_marginLeft="30dp"
+            />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/img_1"
+            android:layout_marginTop="680dp"
+            android:layout_marginLeft="110dp"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/img_2"
+            android:layout_marginTop="680dp"
+            android:layout_marginLeft="190dp"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/img_3"
+            android:layout_marginTop="680dp"
+            android:layout_marginLeft="270dp"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/img_4"
+            android:layout_marginTop="680dp"
+            android:layout_marginLeft="352dp"
+            />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="710dp"
+            android:layout_marginLeft="21dp"
+            android:text="지도"
+            android:gravity="center"
+            android:textSize="11dp"
+            android:textColor="#DFE2EB"
+            />
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="710dp"
+            android:layout_marginLeft="99dp"
+            android:text="등록"
+            android:gravity="center"
+            android:textSize="11dp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="710dp"
+            android:layout_marginLeft="183dp"
+            android:text="업무신청"
+            android:gravity="center"
+            android:textSize="11dp"
+            android:textColor="#DFE2EB"
+            />
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="710dp"
+            android:layout_marginLeft="258dp"
+            android:text="배송현황"
+            android:gravity="center"
+            android:textSize="11dp"
+            android:textColor="#DFE2EB"
+            />
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="710dp"
+            android:layout_marginLeft="342dp"
+            android:text="더보기"
+            android:gravity="center"
+            android:textSize="11dp"
+            android:textColor="#DFE2EB"
+            />
+
+
+
+    </FrameLayout>
+</FrameLayout>
